@@ -1,7 +1,7 @@
 import React from 'react'
 import Navbar from './Component/navbar/Navbar.jsx'
 import Products from './Component/products/Products.jsx'
-import Footer from './Component/footer/footer.jsx'
+import Footer from './Component/footer/Footer.jsx'
 
 function App() {
   return (
